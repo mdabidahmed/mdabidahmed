@@ -1,65 +1,99 @@
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
+[<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mridul2820.mridul2820" />][myprofile]
+
+## Hi, I'm Mridul
+
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="280">][myprofile]
+
+## I'm a Student and a Web Developer!
+
+
+◾ 💻 Currently learning **[React][react]**.
+<br/>
+◾ 🏏 I love to Play, Watch & Talk about **Cricket**.
+<br/>
+◾ ⚾  Follow My FB Page **[CricHut][CricHut]**.
+<br/>
+◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**.
+<br/>
+◾ ▶  Currently making Videos on  **[Sportz Hut][sportzhut]**.
+<br/>
+◾ 🥅 2021 Goals: Being Fluent in **[React][react]**.
+<br/>
+◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much.
 <br/>
 <br/>
-
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
-(Use dark theme to find my socials ;)
-
-<a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
-<a href="https://dribbble.com/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Dribbble" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" />
-<a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://medium.com/@aakarshbiju" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
-<a href="https://dev.to/aakarshb" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-
-<br />
-<br />
-<br />
-
-### 📕 Latest Blog Post
-
-<!-- BLOG-POST-LIST:START -->
-- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
-- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
-- [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-### Languages and Tools:
-
-
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<br />
-<br />
-### Softwares:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
-
-
-<br />
-<br />
 
 ---
 
+### 🧧 Connect with me:
 
+[<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
+[<img align="left" alt="mridul2820 | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/instagram.svg" />][instagram]
+[<img align="left" alt="mridul2820 | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter]
 
-### Now Playing 🎧
+<br />
 
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<br/>
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/comp.gif" alt="Coder GIF" height="280">][myprofile]
+
+<br />
+
+[<img align="left" alt="mridul2820 | bmc" width="250px" src="https://mridul2820.github.io/github-assets/assets/social/BMC.svg" />][buymeacoffee]
+
+<br />
+<br />
+<br />
+
+### ⚙ Languages and Tools  I use :
+
+[<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />][myprofile]
+[<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />][myprofile]
+[<img align="left" alt="JavaScript" width="25px" src="https://mridul2820.github.io/github-assets/assets/tech/js.png" />][myprofile]
+[<img align="left" alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/sass.svg" />][myprofile]
+[<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />][myprofile]
+<br />
+<br />
+[<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/node-js.png" />][myprofile]
+[<img align="left" alt="GitHub" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/github.svg" />][myprofile]
+[<img align="left" alt="Firebase" width="40px" src="https://mridul2820.github.io/github-assets/assets/tech/firebase.png" />][myprofile]
+
+<br />
+
+### 🛠 Softwares I Use : 
+
+<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
+<a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/220px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"/> </a>
+
+<br />
+
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/responsive.gif" alt="Coder GIF" height="280">][myprofile]
+
 ---
 
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+## 💳 Language Card
+<img align="center" alt="Mridul's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
+
+---
+
+## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
+<!-- YOUTUBE:START -->
+- [CSK vs DC Live Match Today | IPL 2021 Live Match Today  | IPL Today Match Live](https://www.youtube.com/watch?v=vwZKTXbHxWk)
+- [MI vs RCB Match Highlight |  IPL 2021 Match 1 Highlights](https://www.youtube.com/watch?v=Z3Xv4PS6oyM)
+- [SRH Vs KKR Live Match Today | IPL 2021 Live Match Today | IPL Live Match | Live Bengali Commentry](https://www.youtube.com/watch?v=X0nxWkOYq9g)
+- [Virat Kohli's Stunned Reaction As Anushka Sharma Completely Lifts Him Ground Up](https://www.youtube.com/watch?v=a7JD2ylEMu8)
+- [Dhoni Finishes off in Style | Whole Wankhede Stadium Singing Vande Mataram | World Cup 2011](https://www.youtube.com/watch?v=j6HL8Yv-VuU)
+<!-- YOUTUBE:END -->
+➡️ [more sportz videos...][sportzhut]
+
+---
+
+[myprofile]: https://github.com/mernstackdeveloper
+[buymeacoffee]: https://www.buymeacoffee.com/abidahmed
+[CricHut]: https://www.facebook.com/crichutcricket/
+[sportzhut]: https://www.youtube.com/sportzhut
+[facebook]: https://www.facebook.com/mridul.panda.754/
+[instagram]: https://www.instagram.com/i_mridul
+[twitter]: https://twitter.com/i_mridul
+[hattsoff]: https://www.hattsoffstore.com/
+[react]: https://reactjs.org/

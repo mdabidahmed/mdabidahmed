@@ -13,7 +13,7 @@ Top free fonts for headings!
 Buttons — Rounded Corners or Sharp?
 
 ### Languages and Tools:
-https://www.w3.org/html/ CSS3 Python C C++ gitGitHub
+html5 CSS3 Python C C++ gitGitHub
 
 
 ### Softwares:

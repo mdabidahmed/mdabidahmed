@@ -1,10 +1,10 @@
 [<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mridul2820.mridul2820" />][myprofile]
 
-## Hi, I'm Mridul
+## Hi, 
 
 [<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="280">][myprofile]
 
-## I'm a Student and a Web Developer!
+## I'm a Software Developer!
 
 
 ◾ 💻 Currently I am working as a **[Mean Stack developer][angular]**.

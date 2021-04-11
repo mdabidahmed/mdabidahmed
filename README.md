@@ -49,7 +49,7 @@
 
 <br />
 
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/comp.gif" alt="Coder GIF" height="280">][myprofile]
+[<img align="right" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/comp.gif" alt="Coder GIF" height="280">][myprofile]
 
 <br />
 

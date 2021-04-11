@@ -41,9 +41,9 @@
 
 ### 🧧 Connect with me:
 
-[<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/facebook.svg" />][facebook]
-[<img align="left" alt="mridul2820 | Instagram" width="35px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/instagram.svg" />][instagram]
-[<img align="left" alt="mridul2820 | Twitter" width="35px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/twitter.svg" />][twitter]
+[<img align="left" alt=" | Facebook" width="35px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/facebook.svg" />][facebook]
+[<img align="left" alt=" | Instagram" width="35px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/instagram.svg" />][instagram]
+[<img align="left" alt=" | Twitter" width="35px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/twitter.svg" />][twitter]
 <br />
 [<img align="right" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/comp.gif" alt="Coder GIF" height="280">][myprofile]
 <br />
@@ -55,6 +55,5 @@
 [facebook]: https://github.com/mernstackdeveloper
 [instagram]: https://github.com/mernstackdeveloper
 [twitter]: https://github.com/mernstackdeveloper
-[hattsoff]: https://www.hattsoffstore.com/
 [react]: https://reactjs.org/
 [angular]: https://angular.io/

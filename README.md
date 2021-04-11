@@ -69,11 +69,11 @@
 
 [myprofile]: https://github.com/mernstackdeveloper
 [buymeacoffee]: https://www.buymeacoffee.com/abidahmed
-[CricHut]: https://www.facebook.com/crichutcricket/
-[sportzhut]: https://www.youtube.com/sportzhut
-[facebook]: https://www.facebook.com/mridul.panda.754/
-[instagram]: https://www.instagram.com/i_mridul
-[twitter]: https://twitter.com/i_mridul
+
+
+[facebook]: https://github.com/mernstackdeveloper
+[instagram]: https://github.com/mernstackdeveloper
+[twitter]: https://github.com/mernstackdeveloper
 [hattsoff]: https://www.hattsoffstore.com/
 [react]: https://reactjs.org/
 [angular]: https://angular.io/

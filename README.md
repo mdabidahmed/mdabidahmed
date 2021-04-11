@@ -1,6 +1,4 @@
-[<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mridul2820.mridul2820" />][myprofile]
-
-## Hi, 
+### Hi, 
 
 [<img align="right" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/coding.gif" alt="Coder GIF" height="280">][myprofile]
 

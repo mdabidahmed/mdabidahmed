@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**mernstackdeveloper/mernstackdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(Use dark theme to find my socials ;)
 
-Here are some ideas to get you started:
+aakarsh.meAakarsh B | LinkedInAakarsh B | BehanceAakarsh B | DribbbleAakarsh B | InstagramAakarsh B | TwitterAakarsh B | Mediumdev to aakarsh
 
-- 🔭 I’m currently working as Mean Stack developer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+📕 Latest Blog Post
+I created 3D art daily for 50 days!
+Top free fonts for headings!
+Buttons — Rounded Corners or Sharp?
+
+Languages and Tools:
+HTML5 CSS3 Python C C++ gitGitHub
+
+
+Softwares:
+Visual Studio Code
+
+XDIllustratorPhotoshopPhotoshop

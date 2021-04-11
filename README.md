@@ -14,31 +14,28 @@
 <p align="left">
 <img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/angular-icon.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/nodejs-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="auto" width="40">
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/express-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" height="auto" width="40">
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/mongodb-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/javascript-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/css3-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" height="auto" width="40">
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/sass-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/jquery-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg" height="auto" width="40">
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/html5-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/bootstrap-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/visualstudio-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/visualstudio-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/redux-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/git-original.svg" height="auto" width="40">
 </p>
 
 

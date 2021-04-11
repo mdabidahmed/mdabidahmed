@@ -7,19 +7,8 @@
 ## I'm a Student and a Web Developer!
 
 
-◾ 💻 Currently I am working as a **[Mean Stack developer][react]**.
-<br/>
-◾ 🏏 I love to Play, Watch & Talk about **Cricket**.
-<br/>
-◾ ⚾  Follow My FB Page **[CricHut][CricHut]**.
-<br/>
-◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**.
-<br/>
-◾ ▶  Currently making Videos on  **[Sportz Hut][sportzhut]**.
-<br/>
-◾ 🥅 2021 Goals: Being Fluent in **[React][react]**.
-<br/>
-◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much.
+◾ 💻 Currently I am working as a **[Mean Stack developer][https://angular.io/]**.
+
 <br/>
 <br/>
 

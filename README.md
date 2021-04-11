@@ -2,7 +2,7 @@
 
 ## Hi, 
 
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="280">][myprofile]
+[<img align="right" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/coding.gif" alt="Coder GIF" height="280">][myprofile]
 
 ## I'm a Software Developer!
 
@@ -43,9 +43,9 @@
 
 ### 🧧 Connect with me:
 
-[<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
-[<img align="left" alt="mridul2820 | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/instagram.svg" />][instagram]
-[<img align="left" alt="mridul2820 | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter]
+[<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/facebook.svg" />][facebook]
+[<img align="left" alt="mridul2820 | Instagram" width="35px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/instagram.svg" />][instagram]
+[<img align="left" alt="mridul2820 | Twitter" width="35px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/twitter.svg" />][twitter]
 
 <br />
 
@@ -53,7 +53,7 @@
 
 <br />
 
-[<img align="left" alt="buymeacoffee | bmc" width="250px" src="https://mridul2820.github.io/github-assets/assets/social/BMC.svg" />][buymeacoffee]
+[<img align="left" alt="buymeacoffee | bmc" width="250px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/BMC.svg" />][buymeacoffee]
 
 
 

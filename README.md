@@ -7,7 +7,7 @@
 ## I'm a Student and a Web Developer!
 
 
-◾ 💻 Currently learning **[React][react]**.
+◾ 💻 Currently I am working as a **[Mean Stack developer][react]**.
 <br/>
 ◾ 🏏 I love to Play, Watch & Talk about **Cricket**.
 <br/>

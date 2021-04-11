@@ -78,19 +78,6 @@
 
 
 
-<br />
-
-
-<br />
-
-
-<br />
-
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/responsive.gif" alt="Coder GIF" height="280">][myprofile]
-
----
-
-
 
 
 [myprofile]: https://github.com/mernstackdeveloper

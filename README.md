@@ -12,11 +12,11 @@ I created 3D art daily for 50 days!
 Top free fonts for headings!
 Buttons — Rounded Corners or Sharp?
 
-###Languages and Tools:
+### Languages and Tools:
 HTML5 CSS3 Python C C++ gitGitHub
 
 
-###Softwares:
+### Softwares:
 Visual Studio Code
 
 XDIllustratorPhotoshopPhotoshop

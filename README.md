@@ -85,4 +85,4 @@
 [twitter]: https://twitter.com/i_mridul
 [hattsoff]: https://www.hattsoffstore.com/
 [react]: https://reactjs.org/
-[angular]: https://angularjs.org/
+[angular]: https://angular.io/

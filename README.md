@@ -46,24 +46,14 @@
 [<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/facebook.svg" />][facebook]
 [<img align="left" alt="mridul2820 | Instagram" width="35px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/instagram.svg" />][instagram]
 [<img align="left" alt="mridul2820 | Twitter" width="35px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/twitter.svg" />][twitter]
-
 <br />
-
 [<img align="right" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/comp.gif" alt="Coder GIF" height="280">][myprofile]
-
 <br />
-
 [<img align="left" alt="buymeacoffee | bmc" width="250px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/BMC.svg" />][buymeacoffee]
-
-
-
-
 
 
 [myprofile]: https://github.com/mernstackdeveloper
 [buymeacoffee]: https://www.buymeacoffee.com/abidahmed
-
-
 [facebook]: https://github.com/mernstackdeveloper
 [instagram]: https://github.com/mernstackdeveloper
 [twitter]: https://github.com/mernstackdeveloper

@@ -40,7 +40,7 @@
 
 
 ---
-<br/>
+
 ### 🧧 Connect with me:
 
 [<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]

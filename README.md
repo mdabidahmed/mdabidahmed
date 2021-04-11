@@ -7,7 +7,7 @@
 ## I'm a Student and a Web Developer!
 
 
-◾ 💻 Currently I am working as a **[Mean Stack developer][https://angular.io/]**.
+◾ 💻 Currently I am working as a **[Mean Stack developer][angular]**.
 
 <br/>
 <br/>

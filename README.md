@@ -2,7 +2,7 @@
 
 [<img align="right" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/coding.gif" alt="Coder GIF" height="280">][myprofile]
 
-## I'm a Software Developer!
+## I'm a Software Engineer!
 
 
 ◾ 💻 Currently I am working as a **[Mean Stack developer][angular]**.

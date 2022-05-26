@@ -5,7 +5,7 @@
 ## I'm a Software Engineer
 
 
-◾ 💻 Currently I am working as a **[Mean Stack developer][angular]**.
+◾ 💻 Currently I am working as a **[Mern/Mean Stack developer][angular]**.
 
 ## Skill set:
 

@@ -47,7 +47,7 @@
 <br />
 [<img align="right" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/comp.gif" alt="Coder GIF" height="280">][myprofile]
 <br />
-[<img align="left" alt="buymeacoffee | bmc" width="250px" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/BMC.svg" />][buymeacoffee]
+
 
 
 [myprofile]: https://github.com/mernstackdeveloper

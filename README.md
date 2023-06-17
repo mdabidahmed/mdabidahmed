@@ -10,6 +10,13 @@
 ## Skill set:
 
 <p align="left">
+
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/react.svg" height="auto" width="40">
+
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/redux.svg" height="auto" width="40">
+
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/reactnative.svg" height="auto" width="40">
+  
 <img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/angular-icon.svg" height="auto" width="40">
 
 <img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/nodejs-original.svg" height="auto" width="40">
@@ -35,7 +42,7 @@
 
 <img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/git-original.svg" height="auto" width="40">
 
-<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/react.svg" height="auto" width="40">
+
 
 </p>
 

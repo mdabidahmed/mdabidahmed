@@ -15,7 +15,7 @@
 
 <img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/redux.svg" height="auto" width="40">
 
-<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/reactnative.svg" height="auto" width="40">
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/reactnative.png" height="auto" width="40">
   
 <img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/angular-icon.svg" height="auto" width="40">
 

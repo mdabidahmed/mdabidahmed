@@ -23,6 +23,10 @@
 
 <img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/express-original.svg" height="auto" width="40">
 
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/nextjs.svg" height="auto" width="40">
+
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/android.svg" height="auto" width="40">
+
 <img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/mongodb-original.svg" height="auto" width="40">
 
 <img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/javascript-plain.svg" height="auto" width="40">

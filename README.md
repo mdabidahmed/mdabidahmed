@@ -5,7 +5,7 @@
 ## I'm a FullStack Developer (Mean/Mern) + React Native Mobile App Developer 
 
 
-◾ 💻 Currently I am working as a **[Mern/Mean Stack developer][angular]**.
+◾ 💻 Currently I am working as a **[Mern/Mean Stack developer]**.
 
 ## Skill set:
 

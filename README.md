@@ -2,7 +2,7 @@
 
 [<img align="right" src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/coding.gif" alt="Coder GIF" height="280">][myprofile]
 
-## I'm a FullStack Developer (Mean/Mern) + Mobile App Developer 
+## I'm a FullStack Developer (Mean/Mern) + React Native Mobile App Developer 
 
 
 ◾ 💻 Currently I am working as a **[Mern/Mean Stack developer][angular]**.

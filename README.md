@@ -34,6 +34,9 @@
 
 
 <img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/git-original.svg" height="auto" width="40">
+
+<img src="https://github.com/mernstackdeveloper/mernstackdeveloper/blob/main/assests/react.svg" height="auto" width="40">
+
 </p>
 
 
